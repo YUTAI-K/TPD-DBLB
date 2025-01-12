@@ -1,6 +1,6 @@
 # TPD-DBLB Solver
 
-This repository provides a mixed-integer programming solver for the **Two-Sided Partial Destructive Disassembly Line Balancing Problem (TPD-DBLB)**. The solver is implemented in Python and supports optimization of the TPD-DBLB model using Gurobi.
+This repository provides a mixed-integer programming solver for the **Two-Sided Partial Destructive Disassembly Line Balancing Problem (TPD-DLBP)**. The solver is implemented in Python and supports optimization of the TPD-DBLB model using Gurobi.
 
 The main concept and model are derived from the paper: *"Exploring Engineering Applications of Two-Sided Partial Destructive Disassembly Line Balancing Problem under Electrical Limiting and Time-of-Use Pricing"* by Lei Guo, Zeqiang Zhang, Yu Zhang, Yan Li, and Haolin Song. For a detailed description of the problem, including its parameters and constraints, please refer to their paper, particularly Section 4.2.
 
